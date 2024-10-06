@@ -23,6 +23,9 @@
 - Maui [File Manager](https://github.com/BIGSUNGG/File_Manager)  
 ㄴ `.NET MAUI`, `Blazor`, `HTML`, `CSS`, `IronPython`
 
+- Web Socket [Chat](https://github.com/BIGSUNGG/Chat)  
+ㄴ `WebSocketSharp`, `.NET EF Core`
+
 ---
 
 <h2 align="left">💻Languages and Tools</h3>
