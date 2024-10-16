@@ -11,13 +11,13 @@
 
 <h2>📝Personal Projects</h2>
 
-[Project Document]()
+[Project Document](https://github.com/BIGSUNGG/BIGSUNGG/blob/main/Document/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EB%AC%B8%EC%84%9C.pdf)
 
 - DirectX 2D [Copy Dungreed](https://github.com/BIGSUNGG/DirectX_2D)  
-ㄴ `DirectX 11`, `WinApi`, `FMOD`, `ImGui`
+ㄴ `DirectX 11`, `Win Api`, `FMOD`, `ImGui`
 
 - Unreal Engine [Kraver](https://github.com/BIGSUNGG/FPS)  
-ㄴ `Unreal Engine5`, `OnlineSubsystem`
+ㄴ `Unreal Engine5`, `UE Networking`,`OnlineSubsystem`
 
 - Unity [MMO RPG](https://github.com/BIGSUNGG/MMO_RPG)  
 ㄴ `Unity 3D`, `TCP/IP Socket`, `Protobuf`, `.NET EF Core`, `Wep Api`, `HTTP`
@@ -81,6 +81,6 @@
             <img height="40" src="https://skillicons.dev/icons?i=html,css,js"/>
             <img height="40" src="https://devblogs.microsoft.com/aspnet/wp-content/uploads/sites/16/2019/04/BrandBlazor_nohalo_1000x.png"/>
         </td>
-    </tr>
+    </tr>    
 </table>
 
