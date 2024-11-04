@@ -13,20 +13,20 @@
 
 [Project Document](https://github.com/BIGSUNGG/BIGSUNGG/blob/main/Document/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EB%AC%B8%EC%84%9C.pdf)
 
-- DirectX 2D [Copy Dungreed](https://github.com/BIGSUNGG/DirectX_2D)  
-ㄴ `DirectX 11`, `Win Api`, `FMOD`, `ImGui`
+- Unity [MMO RPG](https://github.com/BIGSUNGG/MMO_RPG) 2024/02/08~  
+ㄴ `Unity 3D`, `C#`, `TCP/IP Socket`, `HTTP`,  `Wep Api`, `Protobuf`, `.NET EF Core`
 
-- Unreal Engine [Kraver](https://github.com/BIGSUNGG/FPS)  
-ㄴ `Unreal Engine5`, `UE Networking`,`OnlineSubsystem`
+- Unreal Engine [Mutlplayer FPS](https://github.com/BIGSUNGG/FPS) 2023/01/19~  
+ㄴ `Unreal Engine5`, `C++`, `UE Networking`,`UE OnlineSubsystem`
 
-- Unity [MMO RPG](https://github.com/BIGSUNGG/MMO_RPG)  
-ㄴ `Unity 3D`, `TCP/IP Socket`, `Protobuf`, `.NET EF Core`, `Wep Api`, `HTTP`
+- DirectX 2D [Copy Dungreed](https://github.com/BIGSUNGG/DirectX_2D) 2022/07/24~  
+ㄴ `DirectX 11`, `C++`, `Win Api`, `FMOD`, `ImGui`
 
-- Maui [File Manager](https://github.com/BIGSUNGG/File_Manager)  
-ㄴ `.NET MAUI`, `Blazor`, `HTML`, `CSS`, `IronPython`
+- Maui [File Manager](https://github.com/BIGSUNGG/File_Manager) 2024/08/08~  
+ㄴ `.NET MAUI`, `.NET Blazor`, `C#`, `Python`, `HTML`, `CSS`, `IronPython`
 
-- Web Socket [Chat](https://github.com/BIGSUNGG/Chat)  
-ㄴ `WebSocketSharp`, `.NET EF Core`
+- Web Socket [Chat](https://github.com/BIGSUNGG/Chat) 2024/10/02~  
+ㄴ `WebSocketSharp`, `C#`, `Web Socket`, `.NET EF Core`
 
 ---
 
