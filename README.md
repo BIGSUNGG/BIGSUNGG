@@ -11,22 +11,19 @@
 
 <h2>📝Personal Projects</h2>
 
-[Project Document](https://github.com/BIGSUNGG/BIGSUNGG/blob/main/Document/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EB%AC%B8%EC%84%9C.pdf)
+[Portfolio](https://github.com/BIGSUNGG/BIGSUNGG/blob/main/Document/Portfolio.pdf)
 
-- Unity [MMO RPG](https://github.com/BIGSUNGG/MMO_RPG) 2024/02/08~  
+- Unity [MMO RPG](https://github.com/BIGSUNGG/MMO_RPG)  
 ㄴ `Unity 3D`, `C#`, `TCP/IP Socket`, `HTTP`,  `Wep Api`, `Protobuf`, `.NET EF Core`
 
-- Unreal Engine [Mutlplayer FPS](https://github.com/BIGSUNGG/FPS) 2023/01/19~  
+- Unreal Engine [Mutlplayer FPS](https://github.com/BIGSUNGG/FPS)  
 ㄴ `Unreal Engine5`, `C++`, `UE Networking`,`UE OnlineSubsystem`
 
-- DirectX 2D [Copy Dungreed](https://github.com/BIGSUNGG/DirectX_2D) 2022/07/24~  
+- DirectX 2D [Copy Dungreed](https://github.com/BIGSUNGG/DirectX_2D)  
 ㄴ `DirectX 11`, `C++`, `Win Api`, `FMOD`, `ImGui`
 
-- Maui [File Manager](https://github.com/BIGSUNGG/File_Manager) 2024/08/08~  
+- Maui [File Manager](https://github.com/BIGSUNGG/File_Manager)  
 ㄴ `.NET MAUI`, `.NET Blazor`, `C#`, `Python`, `HTML`, `CSS`, `IronPython`
-
-- Web Socket [Chat](https://github.com/BIGSUNGG/Chat) 2024/10/02~  
-ㄴ `WebSocketSharp`, `C#`, `Web Socket`, `.NET EF Core`
 
 ---
 
