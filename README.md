@@ -3,15 +3,17 @@
 
 <h1>🗃️Portfolio</h2>
 
-<h2>📂Blog</h2>
+<h2>📂Document</h2>
+
+[Portfolio](https://github.com/BIGSUNGG/BIGSUNGG/blob/main/Document/Portfolio.pdf)
+
+<h2>📄Blog</h2>
 
 [https://bigsungg.github.io](https://bigsungg.github.io)
 
 ---
 
-<h2>📝Personal Projects</h2>
-
-[Portfolio](https://github.com/BIGSUNGG/BIGSUNGG/blob/main/Document/Portfolio.pdf)
+<h2>✏️Personal Projects</h2>
 
 - Unity [MMO RPG](https://github.com/BIGSUNGG/MMO_RPG)  
 ㄴ `Unity 3D`, `C#`, `TCP/IP Socket`, `HTTP`,  `Wep Api`, `Protobuf`, `.NET EF Core`
@@ -35,10 +37,10 @@
             Language
         </td>
         <td>
-            <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/380px-C_Programming_Language.svg.png?20201031132917"/>
-            <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png?20170928190710"/>        
-            <img height="40" src="https://cdn.worldvectorlogo.com/logos/c--4.svg"/> 
-            <img height="40" src="https://cdn.iconscout.com/icon/free/png-256/free-python-3521655-2945099.png?f=webp"/>
+            <img height="40" src="Image/C.png"/>
+            <img height="40" src="Image/Cpp.png"/>
+            <img height="40" src="Image/Cs.png"/>            
+            <img height="40" src="Image/Python.png"/>            
         </td>
     </tr>
         <tr align="center">
@@ -46,8 +48,8 @@
             Game Engine
         </td>
         <td>
-            <img height="40" src="https://static-00.iconduck.com/assets.00/unreal-icon-2048x2048-6f2xqdhr.png"/>
-            <img height="40" src="https://cdn.icon-icons.com/icons2/2248/PNG/512/unity_icon_136074.png"/>
+            <img height="40" src="Image/UnrealEngine.png"/>            
+            <img height="40" src="Image/Unity.png"/>           
         </td>
     </tr>
         <tr align="center">
@@ -55,18 +57,18 @@
             Database
         </td>
         <td>
-            <img height="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968364.png"/>
-            <img height="40" src="https://static.gunnarpeipman.com/wp-content/uploads/2019/12/ef-core-featured.png"/>
+            <img height="40" src="Image/SqlServer.png"/>            
+            <img height="40" src="Image/EfCore.png"/>            
         </td>
     </tr >
         <tr align="center">
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">
         Library
         </td>
-        <td>
-            <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Microsoft-DirectX-11-Logo-wordmark.svg"/>
-            <img height="40" src="https://static.wikia.nocookie.net/logopedia/images/d/d9/Fmod.svg/revision/latest?cb=20170224163214"/>            
-            <img height="40" src="https://www.basyskom.de/wp-content/uploads/2020/04/protobuf_google_developer.png"/>                    
+        <td>  
+            <img height="40" src="Image/DirectX.png"/>            
+            <img height="40" src="Image/FMOD.png"/>            
+            <img height="40" src="Image/Protobuf.png"/>            
             <span style="font-size: 33px">ImGui</span>
         </td>
     </tr>
@@ -75,8 +77,8 @@
         Frontend
         </td>
         <td>
-            <img height="40" src="https://skillicons.dev/icons?i=html,css,js"/>
-            <img height="40" src="https://devblogs.microsoft.com/aspnet/wp-content/uploads/sites/16/2019/04/BrandBlazor_nohalo_1000x.png"/>
+            <img height="40" src="Image/Web.png"/>            
+            <img height="40" src="Image/Blazor.png"/>            
         </td>
     </tr>    
 </table>
