@@ -11,17 +11,17 @@
 
 <h2>📄Personal Projects</h2>
 
-- Unity [MMO RPG](https://github.com/BIGSUNGG/MMO_RPG)  
+- Unity3D [MMO RPG](https://github.com/BIGSUNGG/MMO_RPG)  
 ㄴ `Unity 3D`, `C#`, `TCP/IP Socket`, `HTTP`,  `Wep Api`, `Protobuf`, `.NET EF Core`
+
+- Unity2D [Mobile UI](https://github.com/BIGSUNGG/Mobile_UI)  
+ㄴ `Unity 2D`, `C#`, `UGUI`
 
 - Unreal Engine [Mutlplayer FPS](https://github.com/BIGSUNGG/FPS)  
 ㄴ `Unreal Engine5`, `C++`, `UE Networking`,`UE OnlineSubsystem`
 
 - DirectX 2D [Copy Dungreed](https://github.com/BIGSUNGG/DirectX_2D)  
 ㄴ `DirectX 11`, `C++`, `Win Api`, `FMOD`, `ImGui`
-
-- Maui [File Manager](https://github.com/BIGSUNGG/File_Manager)  
-ㄴ `.NET MAUI`, `.NET Blazor`, `C#`, `Python`, `HTML`, `CSS`, `IronPython`
 
 ---
 
